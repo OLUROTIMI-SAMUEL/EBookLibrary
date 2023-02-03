@@ -1,0 +1,15 @@
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\bin\Debug\netcoreapp3.1\EBookLibrary.DataAccess.deps.json
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\bin\Debug\netcoreapp3.1\EBookLibrary.DataAccess.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\bin\Debug\netcoreapp3.1\EBookLibrary.DataAccess.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\bin\Debug\netcoreapp3.1\EBookLibrary.Models.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\bin\Debug\netcoreapp3.1\EBookLibrary.Models.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.csproj.AssemblyReference.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.AssemblyInfoInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.AssemblyInfo.cs
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.csproj.CoreCompileInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.csproj.CopyComplete
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.DataAccess\obj\Debug\netcoreapp3.1\EBookLibrary.DataAccess.pdb

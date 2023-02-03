@@ -1,0 +1,15 @@
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\bin\Debug\netcoreapp3.1\EBookLibrary.ViewModels.deps.json
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\bin\Debug\netcoreapp3.1\EBookLibrary.ViewModels.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\bin\Debug\netcoreapp3.1\EBookLibrary.ViewModels.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\bin\Debug\netcoreapp3.1\EBookLibrary.Models.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\bin\Debug\netcoreapp3.1\EBookLibrary.Models.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.csproj.AssemblyReference.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.AssemblyInfoInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.AssemblyInfo.cs
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.csproj.CoreCompileInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.csproj.CopyComplete
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.ViewModels\obj\Debug\netcoreapp3.1\EBookLibrary.ViewModels.pdb

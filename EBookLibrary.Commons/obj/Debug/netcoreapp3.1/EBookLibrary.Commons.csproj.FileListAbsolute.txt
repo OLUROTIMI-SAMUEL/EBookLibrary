@@ -1,0 +1,15 @@
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\bin\Debug\netcoreapp3.1\EBookLibrary.Commons.deps.json
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\bin\Debug\netcoreapp3.1\EBookLibrary.Commons.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\bin\Debug\netcoreapp3.1\EBookLibrary.Commons.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\bin\Debug\netcoreapp3.1\EBookLibrary.Models.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\bin\Debug\netcoreapp3.1\EBookLibrary.DTOs.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\bin\Debug\netcoreapp3.1\EBookLibrary.Models.pdb
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.csproj.AssemblyReference.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.AssemblyInfoInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.AssemblyInfo.cs
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.csproj.CoreCompileInputs.cache
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.csproj.CopyComplete
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.dll
+C:\Code\E-Library\EBookLibraryApplication\EBookLibrary\EBookLibrary.Commons\obj\Debug\netcoreapp3.1\EBookLibrary.Commons.pdb
